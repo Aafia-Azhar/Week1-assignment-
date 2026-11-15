@@ -1,1 +1,3 @@
-![App screenshoot](Aafia flutter assignment.jpeg)
+## My screenshot
+
+![The app running on my phone](screenshot.jpg)
